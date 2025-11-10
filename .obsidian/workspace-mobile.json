@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "1ff31e8b9e73d476",
+    "type": "split",
+    "children": [
+      {
+        "id": "68cb4b6ab924cb4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f249ab57ffb84df3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. 收集/Pro Git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pro Git"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1c82d08d82d0a7e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "361f3006685436b7",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "b858860f86652cfc",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "a54761c177087271",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "ac9035941e705fa3",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5bd9e1a9914c4fb0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ec343df386c1cec0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "0. 日记/2025-11-07.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "95cd51634e045c33",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "df38c4ebad461d08",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "69d99ec5ba73f353",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "calendar"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-livesync:P2P Replicator": false,
+      "obsidian-livesync:Show Log": false,
+      "obsidian-livesync:Replicate": false,
+      "obsidian-livesync:Show Customization sync": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f249ab57ffb84df3",
+  "lastOpenFiles": [
+    "0. 日记/2025-11-10.md",
+    "1. 收集/使用Git进行同步.md",
+    "0. 日记/2025-11-09.md",
+    "4. 资源库/Windows 11激活码.md",
+    "4. 资源库/bashguide.pdf",
+    "4. 资源库/账号.md",
+    "2. 项目/obsidian使用/相关快捷键.md",
+    "2. 项目/obsidian使用/编辑相关的快捷键.md",
+    "1. 收集/Pro Git.md",
+    "1. 收集/ollama学习.md",
+    "1. 收集/Bash.md",
+    "1. 收集/Arch Wiki 初学者学习指南.md",
+    "1. 收集/Arch Linux SSH 服务知识笔记.md",
+    "1. 收集/WSL2/WSL2基础使用.md",
+    "1. 收集/WSL2/WSL2高级配置.md",
+    "1. 收集/WSL2/在Kali-Linux中使用Win-Kex.md",
+    "1. 收集/关于配置Self-hosted Livesync/在自己的云服务器设置CouchDB.md",
+    "0. 日记/2025-11-08.md",
+    "0. 日记/2025-11-07.md",
+    "7. 附件/images",
+    "7. 附件/banners/anime/a_rock_cliff_with_trees_on_top.png",
+    "7. 附件/banners/anime/a_path_leading_to_a_lake.jpg",
+    "7. 附件/banners/anime/a_painting_of_a_horse_drawn_carriage.png",
+    "7. 附件/banners/anime/a_landscape_of_a_farm_with_trees_and_a_blue_sky.png",
+    "7. 附件/banners/anime/a_house_on_an_island_in_the_water.png",
+    "7. 附件/banners/anime/a_girl_standing_on_a_road_with_trees_and_mountains_in_the_background.jpg",
+    "7. 附件/banners/anime/a_girl_standing_on_a_railroad_crossing.png",
+    "7. 附件/banners/anime/a_cartoon_of_a_girl_with_blue_hair_and_a_skull.jpg",
+    "7. 附件/banners/anime/a_woman_in_a_red_dress_sitting_in_front_of_a_gas_station.jpg",
+    "7. 附件/banners/anime/a_pond_with_a_bench_and_flowers.jpg",
+    "7. 附件/banners/anime/README.md"
+  ]
+}

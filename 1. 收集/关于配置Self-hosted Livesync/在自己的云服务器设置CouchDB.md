@@ -1,0 +1,9 @@
+<<<<<<< refs/remotes/origin/main
+---
+banner: 7. 附件/banners/anime/a_bird_flying_in_the_sky.png
+---
+=======
+>>>>>>> Last Sync: 2025-11-09 23:03 (Mobile)
+
+可以参考 [官方教程](https://github.com/vrtmrz/obsidian-livesync/blob/main/docs%2Fsetup_own_server_cn.md) 和 [仓库](https://github.com/vrtmrz/self-hosted-livesync-server) 。
+http://154.64.252.14:8000/fetch

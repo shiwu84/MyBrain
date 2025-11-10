@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "c796397e2a7ba487",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd4fd76f593851c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dac110f17b404510",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. 收集/使用Git进行同步.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "使用Git进行同步"
+            }
+          },
+          {
+            "id": "79d4675d690fcaa1",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://viscouspotenti.al/posts/gitsync-all-devices-tutorial",
+                "title": "How to Sync Obsidian Across All Devices Using Git, Automatically and for Free",
+                "mode": "blank"
+              },
+              "icon": "globe-2",
+              "title": "How to Sync Obsidian Across All Devices Using Git, Automatically and for Free"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66f3cedd79194ea0",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfb2d05412d166f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edab975edd86299f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "e75581da3eb3ef88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "280c3309adfea9b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0a7fa486e5d19d97",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad534fec94fb1a6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84b4744d1ee00762",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "欢迎.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "欢迎 的反向链接列表"
+            }
+          },
+          {
+            "id": "accb5fef1143223d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "865d5ce957060fff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "29ba18b22abd0ee4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "欢迎 的大纲"
+            }
+          },
+          {
+            "id": "0727bd21689c9304",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-livesync:P2P Replicator": false,
+      "obsidian-livesync:Show Log": false,
+      "obsidian-livesync:Replicate": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-livesync:Show Customization sync": false
+    }
+  },
+  "active": "79d4675d690fcaa1",
+  "lastOpenFiles": [
+    "1. 收集/使用Git进行同步.md",
+    "1. 收集/ollama学习.md",
+    "1. 收集/Arch Linux SSH 服务知识笔记.md",
+    "1. 收集/Pro Git.md",
+    "0. 日记/2025-11-10.md",
+    "1. 收集/WSL2高级配置.md",
+    "1. 收集/WSL2基础使用.md",
+    "0. 日记/2025-11-09.md",
+    "4. 资源库/账号.md",
+    "2. 项目/obsidian使用/编辑相关的快捷键.md",
+    "7. 附件/banners/anime/a_building_with_trees_in_the_background_03.jpg",
+    "7. 附件/banners/anime/a_cartoon_of_a_girl_in_a_dress.png",
+    "7. 附件/banners/anime/a_cartoon_of_a_girl_playing_a_guitar.jpg",
+    "7. 附件/banners/anime/a_cartoon_of_a_woman_sitting_in_a_chair_with_a_paddle.jpg",
+    "7. 附件/banners/anime/a_cartoon_of_a_woman_on_a_beach.jpg",
+    "7. 附件/banners/anime/a_cartoon_of_a_woman_lying_on_a_snake.jpg",
+    "7. 附件/banners/anime/a_tree_in_a_forest.png",
+    "7. 附件/banners/anime/a_train_on_tracks_in_a_snowy_city.jpg",
+    "7. 附件/banners/anime/aeb9uhrbr41a1.webp",
+    "7. 附件/banners/anime/background.jpg",
+    "7. 附件/banners/anime/README.md",
+    "0. 日记/2025-11-08.md",
+    "0. 日记/2025-11-07.md",
+    "2. 项目/obsidian使用/相关快捷键.md",
+    "1. 收集/Bash.md",
+    "1. 收集/Arch Wiki 初学者学习指南.md",
+    "1. 收集/关于配置Self-hosted Livesync/在自己的云服务器设置CouchDB.md",
+    "未命名.md",
+    "4. 资源库/Windows 11激活码.md",
+    "4. 资源库/bashguide.pdf",
+    "1. 收集/WSL2/在Kali-Linux中使用Win-Kex.md",
+    "1. 收集/WSL2/WSL2高级配置.md",
+    "1. 收集/WSL2/WSL2基础使用.md",
+    "7. 附件/banners/anime",
+    "2. 项目/obsidian使用",
+    "7. 附件/banners",
+    "1. 收集/关于配置Self-hosted Livesync",
+    "1. 收集/WSL2",
+    "1. 收集/在Kali-Linux中使用Win-Kex.md",
+    "为什么呢？.md",
+    "欢迎.md",
+    "flag_fetch.md",
+    "7. 附件",
+    "8. 知识图",
+    "6. 模板",
+    "5. 归档"
+  ]
+}
