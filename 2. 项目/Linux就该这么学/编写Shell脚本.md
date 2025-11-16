@@ -22,7 +22,6 @@ Shell终端解释器是人类与计算机硬件之间的“翻译官”,Shell脚
 
 ![](assets/bash_example.sh.png)
 
-
 这样可以直接运行Shell脚本。还有一种方法是通过输入脚本的完整路径来运行执行，但是 **默认情况下** 会提示权限不足。就像这样：
 
 ![](assets/permission_denied.png)
@@ -48,6 +47,9 @@ Linux系统中的Shell脚本语言内设了用于接收参数的变量，变量�
 运行结果：
 
 ![](assets/bash_parameter.sh.png)
+
+---
+
 
 # 三、判断用户的参数
 
