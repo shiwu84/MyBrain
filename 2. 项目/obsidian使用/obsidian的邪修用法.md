@@ -1,0 +1,1 @@
+![obsidian](https://youtu.be/IlNOhNeWGgY?si=NOZK2OnwKET6IQA8)
