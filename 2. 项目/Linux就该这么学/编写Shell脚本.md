@@ -9,7 +9,11 @@ Shell终端解释器是人类与计算机硬件之间的“翻译官”,Shell脚
 
 示例：**查看当前所在工作路径并列出当前目录下所有的文件及属性信息。** 
 
+<<<<<<< HEAD
+![](assets/example.sh.png)
+=======
 ![[example.sh.png]]
+>>>>>>> origin/main
 
 >[!注意]
 >Shell脚本的名称可以随意取，但是推荐奖 `.sh` 后缀加上，以表示这是一个脚本文件。
@@ -20,16 +24,28 @@ Shell终端解释器是人类与计算机硬件之间的“翻译官”,Shell脚
 
 运行一下试试看：
 
+<<<<<<< HEAD
+![](assets/bash_example.sh.png)
+=======
 ![[bash_example.sh.png]]
+>>>>>>> origin/main
 
 
 这样可以直接运行Shell脚本。还有一种方法是通过输入脚本的完整路径来运行执行，但是 **默认情况下** 会提示权限不足。就像这样：
 
+<<<<<<< HEAD
+![](assets/permission_denied.png)
+
+此时，只需要为脚本增加 **可执行权限** 即可：
+
+![](assets/chomd_+x_example.sh.png)
+=======
 ![[permission_denied.png]]
 
 此时，只需要为脚本增加 **可执行权限** 即可：
 
 ![[chomd_+x_example.sh.png]]
+>>>>>>> origin/main
 
 # 二、接收用户的参数
 
@@ -43,11 +59,19 @@ Linux系统中的Shell脚本语言内设了用于接收参数的变量，变量�
 
 练习：
 
+<<<<<<< HEAD
+![](assets/parameter.sh.png)
+
+运行结果：
+
+![](assets/bash_parameter.sh.png)
+=======
 ![[parameter.sh.png]]
 
 运行结果：
 
 ![[bash_parameter.sh.png]]
+>>>>>>> origin/main
 
 # 三、判断用户的参数
 
