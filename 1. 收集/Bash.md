@@ -1,3 +1,5 @@
+![](https://youtu.be/Y-b3RvwVq7c?si=egMtGp0yRNwcn_Ck)
+
 Bash是由GNU项目开发的命令行Shell编程语言，是Arch Linux的默认命令行Shell。
 
 # 窗口大小调整时自动换行
