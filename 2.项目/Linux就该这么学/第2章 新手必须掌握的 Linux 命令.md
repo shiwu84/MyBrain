@@ -1,3 +1,5 @@
+/
+
 Linux 常用命令可以在 [ 站点](https://www.linuxcool.com) 查看。
 
 ## 强大好用的 Shell
